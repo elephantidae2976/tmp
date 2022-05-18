@@ -9,7 +9,7 @@ a.M       { text-decoration:none;font-size:9pt;}
 
 body{
   color: #000000;
-  background-color: #EEFFFF;
+  background-color: #ffffee;
   margin-top:3px;
   background-image: url('../skb_background.gif');
 }
@@ -169,7 +169,7 @@ TD.M {
 .NaviText {
   font-size: 9pt;
 }
-#campInfo    { white-space : nowrap; } /* w‰c‚Ìó‹µ */
+#campInfo    { white-space : nowrap; }
 
 td.b { background-color:#FFFFFF; border-width:0px; }
 td.e { background-color:#0088FF; border-width:0px; }
